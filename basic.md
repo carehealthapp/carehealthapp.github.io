@@ -1,8 +1,0 @@
-<html>
-  <body>
-    <h1>
-      HI KAMPS !KM KAMPS KM !!!!
-    </h1>
-  </body>
-</html>
-  
