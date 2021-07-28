@@ -1,0 +1,116 @@
+body {
+}
+
+h1 {
+    font: 700 italic 40px/50px Helvetica;
+    text-align: center;
+    margin: 50px 0px 70px 0px;
+    color: black;
+    font-style: italic;
+    font-family: Orpheus;
+}
+
+h2 {
+    font-family: Orpheus;
+    font-style: italic;
+    text-align: center;
+    color: black;
+}
+
+.text {
+  text-align: center;
+  color: black;
+  margin: 0px 0px 40px 0px;
+}
+
+.header {  
+  color: black;  
+  width: 26px;
+  text-decoration: none;
+  margin: 20px;
+  font-style: italic;
+  font-family: Orpheus;
+  font-size: 20px;
+}  
+
+.header:hover{
+  opacity: 0.7;
+}
+
+.button2 {
+  background-color: black;
+  border: 3px solid black;
+  color: white;
+  padding: 15px 296px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 10px 10px 10px 10px;
+  font-style: italic;
+}
+
+.button2:hover {
+  background-color: white;
+  border: 3px solid black;
+  color: black;
+}
+
+.button1 {
+  background-color: black;
+  border: 3px solid black;
+  color: white;
+  padding: 15px 287px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 20px 10px 80px 10px;
+  font-style: italic;
+}
+
+.button1:hover {
+  background-color: white;
+  border: 3px solid black;
+  color: black;
+}
+
+img {
+  margin:0px;
+  width: 100px;
+  length: 100px;
+}
+
+.images {
+    border: 15px solid grey;
+    width: 500px;
+    height: 500px;
+    border-radius: 25px;
+    margin: 40px 0px 40px 0px;
+}
+
+.teams {
+    border: 7px solid grey;
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin: 45px;
+}
+
+.github {
+  height: 22px;
+  width: 22px;
+  margin: 0px 5px;
+}
+
+.github:hover {
+  opacity: 0.7;
+}
+
+.linkedin {
+  height: 22px;
+  width: 22px;
+  margin: 0px 5px;
+}
+
+.linkedin:hover {
+  opacity: 0.7;
+}
